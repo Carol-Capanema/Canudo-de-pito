@@ -1,6 +1,10 @@
-# Canudo-de-pito (*Mabea fistulifera*)
+# Canudo-de-pito (*Mabea fistulifera*) nas Humanidades Vegetais
 
-This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
+As plantas podem ser estudadas a partir de grande diversidade de aspectos. Sob a perspectiva das humanidade vegetais, o interesse nas plantas é insterdiscplinar e busca-se traçar sua história na interceção entre as ciências, as humanidades e as artes.
+
+Nossa narrativa começa com a história do canudo-de-pito, *Mabea fistulifera*, entre dados científicos de suas características físicas, caracteres fitofisionômicos, classificação taxonômica e dados sobre seus significados para a cultura humana.
+
+Para saber mais sobre iniciativas em Humanidades Vegetaism [clique aqui] (https://lab.plant-humanities.org/about/)
 
 
 Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
